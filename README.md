@@ -15,7 +15,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas focado no desenvolviment
 
 Demonstra a animação de cards usando biblioteca javascript de inclinação 3D suave, o `tilt.js` usando tecnologias web: `HTML`, `CSS` e `JavaScript`.
 
-Para baixar a biblioteca siga os passos em [vanilla-tilt.js](https://micku7zu.github.io/vanilla-tilt.js/).
+Para baixar está biblioteca siga os passos em [vanilla-tilt.js](https://micku7zu.github.io/vanilla-tilt.js/).
 
 ### Licença
 
