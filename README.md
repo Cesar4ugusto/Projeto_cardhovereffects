@@ -1,3 +1,5 @@
+![capagit](https://user-images.githubusercontent.com/67242974/112635878-1c994500-8e1b-11eb-94f0-c017b159c160.jpg)
+
 # Projeto Cards Effect.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Cesar4ugusto)](https://github.com/Cesar4ugusto)
@@ -7,16 +9,20 @@
 
 Olá, me chamo César Augusto.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas focado no desenvolvimentode soluções web Front-End e Back-End.
+Sou estudante de Análise e Desenvolvimento de Sistemas focado no desenvolvimento de soluções web Front-End e Back-End.
 
 ## Este projeto
 
 > Status do Projeto: Concluido :heavy_check_mark:
 
-Demonstra a animação de cards usando biblioteca javascript de inclinação 3D suave, o `tilt.js` usando tecnologias web: `HTML`, `CSS` e `JavaScript`.
+> Projeto Front-End :+1:
+
+Demonstra a animação de cards usando biblioteca javascript de inclinação 3D suave, o `tilt.js` com tecnologias web: `HTML`, `CSS` e `JavaScript`.
 
 Para baixar está biblioteca siga os passos em [vanilla-tilt.js](https://micku7zu.github.io/vanilla-tilt.js/).
 
 ### Licença
+
+As imagens estão sob proteção da marca.
 
 Todos os ativos e código são de domínio público, a menos que especificado de outra forma.
